@@ -10,6 +10,8 @@ This will bind a handler to the `focus` event of the input selected. When given 
 
 At the equator, the rectangle would be a square. Anywhere north or south of the equator it will be elongated vertically.
 
+When the modal is closed (ie: editing of the rectangle is complete), the input closest inputs named `latitude`, `longitude` and `delta` are updated with the values present on the rectangle that was drawn
+
 ## Still To Do
 - If lat/lng/delta are set, they should be used to place a rectangle on the map, adjustment of which will update the fields.
 
