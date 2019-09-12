@@ -1,4 +1,4 @@
-#mapinput-delta
+# mapinput-delta
 
 This is a simple jQuery plugin for providing a visual, map based interface to latitude, longitude and delta fields. These 3 fields are used in some applications to describe bounding boxes around geographic areas. The lat/lng are the center of the box, delta is the number of degrees to the edge of the box.
 
